@@ -1,6 +1,5 @@
 #menu-bar {
     background-color: #c68851;
-    color: white;
 }
 .text-center text-white {
     background-color: #c68851;
@@ -18,4 +17,7 @@
 }
 #navbar {
     color: #c68851;
+}
+. {
+    color: white;
 }
