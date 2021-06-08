@@ -22,3 +22,21 @@
     text-align: center;
 
 }
+#nav ul li a{
+    color: white;
+}
+.bg {
+    background-color: rgb(190, 172, 152);
+    clip-path: polygon(50% 0%, 96% 49%, 52% 100%, 0 98%, 0 0);
+    z-index: -1;
+}
+#bg1 {
+    background-color: rgb(190, 172, 152);
+    clip-path: polygon(50% 0%, 96% 49%, 52% 100%, 0 98%, 0 0);
+    z-index: -1;
+} 
+
+/* 
+h2 {
+    float: right;
+} */
